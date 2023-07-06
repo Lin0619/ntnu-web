@@ -1,0 +1,32 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&display=swap');
+*{
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+
+
+table,
+tr,
+td,
+th{
+    color: black;
+    border: 1px solid black;
+    border-spacing: 0px;
+}
+
+th{
+    
+    background-color:rgb(190, 197, 216) ;
+}
+
+div{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    h1 {
+        
+        color: rgb(233, 186, 208);
+    }
+}
